@@ -6,8 +6,7 @@
 
 
 ## Quick Start.
-### 1: Open "compiled" folder.
-### 2: Run "start" shell script
-### 3: Open index.js
+### 1: Run "start" shell script
+### 2: Open index.JS
 
  
