@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/client/src/engines/CreateNewEngine.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/engines/ViewEngines.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -91,7 +92,7 @@
       <updated>1707741352819</updated>
       <workItem from="1707741355492" duration="1833000" />
       <workItem from="1707743274131" duration="425000" />
-      <workItem from="1707743715052" duration="2230000" />
+      <workItem from="1707743715052" duration="807000" />
     </task>
     <servers />
   </component>

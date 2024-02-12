@@ -5,8 +5,18 @@
 #### Introduce Update car/engine feature.
 
 
-## Quick Start.
-### 1: Run "start" shell script
-### 2: Open index.JS
+## Useful Information
+### Java Version 17
+### Requires NodeJS https://nodejs.org/en
+## Quick Start
+### Clone repository then run the following. It requires two different command lines.
+# 1
+### cd client
+### npm install
+### npm start
+
+# 2
+### mvn spring-boot:run
+
 
  
